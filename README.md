@@ -1,6 +1,6 @@
 GruopWare Project
 ================
-[프로젝트 ](http://sysout.co.kr/groupware5)
+[프로젝트 링크](http://sysout.co.kr/groupware5)
 ------------------------------
 
 프로젝트 기능 설명
