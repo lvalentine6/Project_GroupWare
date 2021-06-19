@@ -11,7 +11,11 @@ GroupWare Project
 * Web Application Server : Tomcat 9.0        
 * Technology :            
         JDBC, HTML 5.0, CSS, Javascript, jQuery         
-* api : 다음 주소검색, 구글 메일api           
+* api : 다음 주소검색, 구글 메일api       
+
+프로젝트 개발 기간   
+-----------------
+개발 기간 : 2021-05-24 ~ 2021-06-04 (약 2주)     
 
 프로젝트 기능 설명
 -----------------
