@@ -4,6 +4,10 @@ GroupWare Project
 프로젝트 링크 : [GroupWare](http://sysout.co.kr/groupware5)
 ------------------------------
 
+프로젝트 개발 목적
+---------------
+다양한 기능이 존재하는 그룹웨어를 구현
+
 프로젝트 개발 환경
 -----------------
 * Programming Language : JAVA (JDK1.8.0)      
