@@ -4,6 +4,15 @@ GroupWare Project
 프로젝트 링크 : [GroupWare](http://sysout.co.kr/groupware5)
 ------------------------------
 
+프로젝트 개발 환경
+-----------------
+Programming Language : JAVA (JDK1.8.0)
+DBMS : ORACLE
+Web Application Server : Tomcat 9.0
+Technology : 
+        JDBC, HTML 5.0, CSS, Javascript, jQuery
+api : 다음 주소검색, 구글 메일api
+
 프로젝트 기능 설명
 -----------------
 
