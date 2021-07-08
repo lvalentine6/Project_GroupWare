@@ -12,12 +12,11 @@ GroupWare Project
 
 사용 기술
 -----------------
-* Programming Language : JAVA (JDK1.8.0)      
-* DBMS : ORACLE        
-* Web Application Server : Tomcat 9.0        
-* Technology :            
-        JDBC, HTML 5.0, CSS, Javascript, jQuery         
-* api : 다음 주소검색, 구글 메일api       
+* Language : Java(8), JavaScript(ES5), HTML5, CSS3     
+* Library : jQuery      
+* Server : Tomcat 9.0      
+* DBMS : Oracle       
+* Tool : Git / GIthub         
 
 개발 기간 & 참여 인원  
 -----------------
@@ -30,11 +29,14 @@ ERD 설계
 
 프로젝트 기능 설명
 -----------------
-* 공통기능
-    * 로그인 화면
-    * 메인 페이지
 
-* 세부 기능
+* <h3>공통 기능</h3>
+ 
+  * 로그인 화면
+  * 메인 페이지
+
+* <h3>세부 기능</h3>
+
 1. 공지 메일     
 2. 일정 목록         
 3. 주소록     
@@ -69,4 +71,4 @@ ERD 설계
 
   느낀점
   ----------
-  [국비학원 세미 프로젝트가 끝나고](https://rovictory.tistory.com/9)
+  >[국비학원 세미 프로젝트가 끝나고](https://rovictory.tistory.com/9)
