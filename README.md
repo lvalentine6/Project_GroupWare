@@ -4,11 +4,7 @@ GroupWare Project
 프로젝트 링크 : [GroupWare](http://sysout.co.kr/groupware5)
 ------------------------------
 
-프로젝트 개발 목적
----------------
-다양한 기능이 존재하는 그룹웨어를 구현
-
-프로젝트 개발 환경
+사용 기술
 -----------------
 * Programming Language : JAVA (JDK1.8.0)      
 * DBMS : ORACLE        
@@ -17,9 +13,14 @@ GroupWare Project
         JDBC, HTML 5.0, CSS, Javascript, jQuery         
 * api : 다음 주소검색, 구글 메일api       
 
-프로젝트 개발 기간   
+개발 기간 & 참여 인원  
 -----------------
 개발 기간 : 2021-05-24 ~ 2021-06-04         
+팀 프로젝트 (5명)
+
+ERD 설계
+-----------------
+[![ERD.png](https://i.postimg.cc/L63ksv9f/ERD.png)](https://postimg.cc/BXtPYT1Q)
 
 프로젝트 기능 설명
 -----------------
