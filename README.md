@@ -20,7 +20,7 @@ GroupWare Project
 
 ERD 설계
 -----------------
-[![ERD.png](https://i.postimg.cc/L63ksv9f/ERD.png)](https://postimg.cc/BXtPYT1Q)
+[![ERD.png](https://ibb.co/72QmVj1)]
 
 프로젝트 기능 설명
 -----------------
