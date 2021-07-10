@@ -28,7 +28,7 @@ GroupWare Project
 </br>
 
 
-ERD 설계
+ERD 설계 (이미지 수정)
 -----------------
 [![ERD.png](https://i.postimg.cc/prXj5MXF/ERD.png)](https://postimg.cc/hz6vNwmD)
 
