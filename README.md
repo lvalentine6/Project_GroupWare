@@ -1,7 +1,7 @@
 GroupWare Project
 ================
 
-* 프로젝트 링크 : [GroupWare](http://sysout.co.kr/groupware5)
+* 프로젝트 링크 : [GroupWare](https://bit.ly/3k7dwT1)
 
 
 
@@ -82,4 +82,4 @@ ERD 설계
 
   느낀점
   ----------
-  >[국비학원 세미 프로젝트가 끝나고](https://rovictory.tistory.com/9)
+  >[국비학원 세미 프로젝트가 끝나고](https://bit.ly/2VwlLOs)
