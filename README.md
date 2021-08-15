@@ -1,4 +1,4 @@
-GroupWare Project
+Project GroupWare
 ================
 
  ### 프로젝트 링크 : [GroupWare](https://bit.ly/3k7dwT1)
