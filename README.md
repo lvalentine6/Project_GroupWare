@@ -71,14 +71,23 @@ ERD 설계
  
  </br>
  
- 나의 역할
+ 담당 기능
  -----------
  * __UI 디자인__    
 <details>
    <summary>공지 메일</summary>
    <div markdown="1">
    <br>
-
+   
+* 받는 사람의 이메일 형식 검사를 수행하고 올바른 이메일 형식이 아닐시 에러 메시지를 표시합니다.   
+* 정상적으로 메일이 발송되면 알림창을 표시합니다.    
+* 이후 구글 메일 API를 통해 메일을 발송합니다.   
+  * 코드 확인    
+    [구글 SMTP 인증](https://github.com/lvalentine6/Project_GroupWare/blob/master/groupware/src/groupware/beans/MailLogin.java)    
+    [메일 전송](https://github.com/lvalentine6/Project_GroupWare/blob/master/groupware/src/groupware/mail/servlet/MailSendServlet.java)
+   <br>
+    
+    
    [![2.png](https://i.postimg.cc/DzRnG40Q/2.png)](https://postimg.cc/SXLBFsWj)
 
   </div>
@@ -90,7 +99,8 @@ ERD 설계
    <br>
 
    [![1.png](https://i.postimg.cc/y8QVVbzb/1.png)](https://postimg.cc/LJPdDv5t)
-
+* 타인 게시글만 조회수 증가
+    [타인 게시글](https://github.com/lvalentine6/Project_GroupWare/blob/master/groupware/WebContent/board/boardDetail.jsp#L24)
   </div>
   </details> 
 
