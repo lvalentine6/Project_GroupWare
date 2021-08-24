@@ -99,9 +99,18 @@ ERD 설계
    <div markdown="1">
    <br>
 
+* 내가 작성한 게시글을 조회하면 조회수가 올라가지 않고 타인이 내 글을 읽을때만 조회수가 올라가게 설정하였습니다.
+* 내가 작성한 게시글과 댓글만 수정하고 삭제할 수 있게 설정하였습니다. (관리자는 수정, 삭제 가능)    
+* 내가 작성한 게시글을 확인할 수 있게 하였습니다.    
+    
+ * **코드확인** :pushpin:  
+   * [타인 게시글만 조회수 증가](https://github.com/lvalentine6/Project_GroupWare/blob/master/groupware/WebContent/board/boardDetail.jsp#L24)    
+   * [나의 게시글, 댓글만 삭제, 수정](https://github.com/lvalentine6/Project_GroupWare/blob/master/groupware/WebContent/board/boardDetail.jsp#L106)    
+   * [내가 작성한 게시글](https://github.com/lvalentine6/Project_GroupWare/blob/master/groupware/WebContent/board/myBoardList.jsp)   
+    <br>
+    
+    
    [![1.png](https://i.postimg.cc/y8QVVbzb/1.png)](https://postimg.cc/LJPdDv5t)
-* 타인 게시글만 조회수 증가
-    [타인 게시글](https://github.com/lvalentine6/Project_GroupWare/blob/master/groupware/WebContent/board/boardDetail.jsp#L24)
   </div>
   </details> 
 
