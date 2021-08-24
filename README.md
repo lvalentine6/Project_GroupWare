@@ -73,10 +73,26 @@ ERD 설계
  
  나의 역할
  -----------
-  * __공지 메일__ (핵심 기능 설명)
-  * __게시판, 댓글__ (핵심 기능 설명)
-  * __내 작성글__   (핵심 기능 설명)
-  * __UI 디자인__  
+ * __UI 디자인__    
+<details>
+   <summary>공지 메일</summary>
+   <div markdown="1">
+   <br>
+
+   [![2.png](https://i.postimg.cc/DzRnG40Q/2.png)](https://postimg.cc/SXLBFsWj)
+
+  </div>
+  </details> 
+
+<details>
+   <summary>게시판, 댓글</summary>
+   <div markdown="1">
+   <br>
+
+   [![1.png](https://i.postimg.cc/y8QVVbzb/1.png)](https://postimg.cc/LJPdDv5t)
+
+  </div>
+  </details> 
 
   </br>
 
