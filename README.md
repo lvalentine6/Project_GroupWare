@@ -82,7 +82,7 @@ ERD 설계
 * 받는 사람의 이메일 형식 검사를 수행하고 올바른 이메일 형식이 아닐시 에러 메시지를 표시합니다.   
 * 정상적으로 메일이 발송되면 알림창을 표시합니다.    
 * 이후 구글 메일 API를 통해 메일을 발송합니다.   
-    * pushpin: 코드 확인    
+    * pushpin: [코드 확인]    
     [구글 SMTP 인증](https://github.com/lvalentine6/Project_GroupWare/blob/master/groupware/src/groupware/beans/MailLogin.java)    
     [메일 전송](https://github.com/lvalentine6/Project_GroupWare/blob/master/groupware/src/groupware/mail/servlet/MailSendServlet.java)
    <br>
